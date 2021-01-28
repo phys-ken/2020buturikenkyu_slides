@@ -1,14 +1,14 @@
 ---
 theme: "white"
 slideNumber: True
-title: "Wave 2020"
+title: "円運動・単振動 2020"
 
 ---
 
 
 # 円運動・単振動
 2020年度　物理研究　長倉クラス  
-12月~　  
+１月~　  
   
 
 

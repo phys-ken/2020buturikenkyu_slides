@@ -3,4 +3,4 @@
 
 [授業資料はこちら](https://github.com/phys-ken/2020buturikenkyu_slides)
   
-[スライドはこちら](https://phys-ken.github.io/2020buturikenkyu_slides/export/index.html#/1)
+[スライドはこちら](https://phys-ken.github.io/2020buturikenkyu_slides/export/#/)
