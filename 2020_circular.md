@@ -84,5 +84,8 @@ title: "円運動・単振動 2020"
 
 ### 具体例
 
-ローカル１  
-ローカル２
+[電車](https://www.nhk.or.jp/kokokoza/tv/basicscience/archive/chapter023.html)  
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aJlcbzDhaaY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
