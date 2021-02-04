@@ -89,3 +89,25 @@ title: "円運動・単振動 2020"
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aJlcbzDhaaY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## 遠心力
+
+---
+
+### 実はもう一つ
+
+<video controls="" src = "fig/6ensin.mov" width = 400>
+このブラウザでは動画はサポートされていません。Google Chrome等でご覧ください。</video>
+
+---
+
+<video controls="" src = "fig/7ensin.MOV" width = 400>
+このブラウザでは動画はサポートされていません。Google Chrome等でご覧ください。</video>
+
+---
+
+## 遠心力を元に考えると…
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UDMGfMZjYYc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
