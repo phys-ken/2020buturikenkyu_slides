@@ -127,7 +127,7 @@ title: "円運動・単振動 2020"
 
 [動画](https://www.youtube.com/watch?v=IpGUibvlSUE&feature=youtu.be)  
 [軌跡](https://www.youtube.com/watch?v=UD6FcBrEHSc&feature=youtu.be)  
-[ストロボ映像](https://github.com/phys-ken/2020buturikenkyu_slides/stFig/2D_Mom.html)
+[ストロボ映像](https://phys-ken.github.io/2020buturikenkyu_slides/stFig/2D_Mom.html)
 
 
 ---
