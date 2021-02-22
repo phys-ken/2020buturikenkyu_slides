@@ -1,6 +1,7 @@
 # 2020buturikenkyu_slides
 2020物理研究の授業資料です。
 
-[授業資料はこちら](https://github.com/phys-ken/2020buturikenkyu_slides)
   
-[スライドはこちら](https://phys-ken.github.io/2020buturikenkyu_slides/export/#/)
+[授業スライドはこちら](https://phys-ken.github.io/2020buturikenkyu_slides/export/#/)
+[授業資料(Web版)こちら](https://phys-ken.github.io/2020buturikenkyu_slides/2020_circular.html)  
+[物理研究のトップページはこちら](https://github.com/phys-ken/2020buturikenkyu_slides)

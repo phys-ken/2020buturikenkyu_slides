@@ -12,7 +12,8 @@ title: "円運動・単振動 2020"
   
 
 
-[授業資料はこちら](https://github.com/phys-ken/2020buturikenkyu_slides)
+[授業資料(Web版)こちら](https://phys-ken.github.io/2020buturikenkyu_slides/2020_circular.html)  
+[物理研究のトップページはこちら](https://github.com/phys-ken/2020buturikenkyu_slides)
 
 ---
 
