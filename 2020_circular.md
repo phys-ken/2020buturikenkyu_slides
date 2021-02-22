@@ -134,13 +134,11 @@ title: "円運動・単振動 2020"
 
 ## 運動のグラフ(x方向)
 ![ストロボ](stFig/fig/z00005.jpg)
-![vx](stFig/vyt.png)
-* グラフのタイトルが間違ってる...
+![vx](stFig/vxt.png)
 
 ---
 
 ## 運動のグラフ(y方向)
 ![ストロボ](stFig/fig/z00005.jpg)
-![vx](stFig/vxt.png)
-* グラフのタイトルが間違ってる...
+![vy](stFig/vyt.png)
 
