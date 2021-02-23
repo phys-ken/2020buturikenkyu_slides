@@ -6,7 +6,7 @@ title: "円運動・単振動 2020"
 ---
 
 
-# 円運動・単振動
+# 円運動・慣性力
 2020年度　物理研究　長倉クラス  
 １月~　  
   
@@ -113,6 +113,11 @@ title: "円運動・単振動 2020"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UDMGfMZjYYc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+---
+
+おまけ
+# 平面の運動量
 
 ---
 
