@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META http-equiv="Content-Style-Type" content="text/css">
+<META name="generator" content="多重露光　動画→静止画　変換・合成">
+<TITLE>多重露光　動画→静止画　変換・合成</TITLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+var i=1;
+var j=1;
+var t= 300 ;
+  picture1=new Array();
+  for ( i=1; i<=13; i++){
+    picture1[i] = new Image();
+  };
+ picture1[1].src = "z00001.jpg";
+ picture1[2].src = "z00002.jpg";
+ picture1[3].src = "z00003.jpg";
+ picture1[4].src = "z00004.jpg";
+ picture1[5].src = "z00005.jpg";
+ picture1[6].src = "z00006.jpg";
+ picture1[7].src = "z00007.jpg";
+ picture1[8].src = "z00008.jpg";
+ picture1[9].src = "z00009.jpg";
+ picture1[10].src = "z00010.jpg";
+ picture1[11].src = "z00011.jpg";
+ picture1[12].src = "z00012.jpg";
+ picture1[13].src = "z00013.jpg";
+
+  function slideshow(){
+    img1.src = picture1[j].src;
+  j++;
+    if(j>=14){
+      j=1;
+    }
+    setTimeout("slideshow()", t );
+  }
+
+function speeddown(){ t=t + 200 }
+function speedup(){ t=t-100;
+  if(t<=100){t=100}
+}
+function beforePicture(){
+  t=600000;
+  j=j-2;
+  if(j<1){j=13};
+  slideshow();
+}
+function nextPicture(){ 
+  t=600000;
+  slideshow();
+}
+function stopPicture(){ t=600000}
+function playPicture(){ t= 300
+  slideshow();
+}
+//-->
+</SCRIPT>
+</HEAD>
+<BODY  onload="slideshow()" bgcolor="#ccffff" text="#000000" link="#0000cc" vlink="#990099" alink="#ff0000">
+<DIV style="top : 1px;left : 150px;
+ position : absolute;
+  z-index : 1;
+" id="img100"><IMG src="z00000.jpg"
+ id=img1 width="619" height="600" border="1"></DIV>
+<DIV style="top : 110px;left : 0px;
+ position : absolute;
+  z-index : 11;
+" id="img11"><IMG src="logo2.gif" onClick="speedup()" STYLE="cursor:hand " width="130" height="21" border="0"></DIV>
+<DIV style="top : 140px;left : 0px;
+ position : absolute;
+  z-index : 12;
+" id="img12"><IMG src="logo3.gif" onClick="speeddown()" STYLE="cursor:hand " width="130" height="21" border="0"></DIV>
+<DIV style="top : 55px;left : 0px;
+ position : absolute;
+  z-index : 28;
+" id="img28"><IMG src="logo4.gif" onClick="beforePicture()" STYLE="cursor:hand " width="40" height="50" border="0"></DIV>
+<DIV style="top : 55px;left : 35px;
+ position : absolute;
+  z-index : 29;
+" id="img29"><IMG src="logo5.gif" onClick="nextPicture()" STYLE="cursor:hand " width="40" height="50" border="0"></DIV>
+<DIV style="top : 55px;left : 70px;
+ position : absolute;
+  z-index : 30;
+" id="img30"><IMG src="logo6.gif" onClick="stopPicture()" STYLE="cursor:hand " width="40" height="50" border="0"></DIV>
+<DIV style="top : 55px;left : 105px;
+ position : absolute;
+  z-index : 31;
+" id="img31"><IMG src="logo7.gif" onClick="playPicture()" STYLE="cursor:hand " width="40" height="50" border="0"></DIV>

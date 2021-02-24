@@ -123,7 +123,9 @@ title: "円運動・単振動 2020"
 
 ## チョン押し
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tfy5O6SmMCY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![ストロボ](hovFig\z00013.jpg)  
+[軌跡の動画](https://www.youtube.com/watch?v=tfy5O6SmMCY&feature=youtu.be)  
+[ストロボ映像](https://phys-ken.github.io/2020buturikenkyu_slides/hovFig/animation_z.html)
 
 ---
 
